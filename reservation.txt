@@ -1,0 +1,10 @@
+************************
+ PNR-4506521554
+no of seats: 1
+name: sai
+age: 12
+gender: m
+phone no: 8968765757649
+address: jkgyugfyuf yufyfuy
+aadhar_no: 7656345354637
+seat no:7
