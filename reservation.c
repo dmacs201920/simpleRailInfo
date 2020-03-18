@@ -5,12 +5,24 @@
 void sreservation()
 {
     char ch;
+    int days;
     int n,i=0;
     float charges;
     pd  details;
     FILE*f=fopen("reservation.txt","ab");
     system("clear");
     date();
+    
+    {
+	if(days<0&&days>120)
+    {
+	printf("cannot reserve a ticket....\n");
+	exit(-1);
+    }
+	else
+	    printf("you can proceed for reservation...\n");
+    }
+
     printf("\nnumber of seats:");
     scanf("%d",&details.num_of_seats);
     n=details.num_of_seats;
