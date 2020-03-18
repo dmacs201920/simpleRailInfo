@@ -19,7 +19,7 @@ void main()
 	 choice();
 	 break;
      case 2:
-	 //admin();
+	// admin();
 	 break;
      case 3:
 	 break;

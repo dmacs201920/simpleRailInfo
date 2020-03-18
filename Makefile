@@ -5,7 +5,7 @@ function.o: function.c header.h
 smain.o: smain.c header.h
 	gcc -c  smain.c
 date.o: date.c header.h
-	gcc -c  smain.c
+	gcc -c  date.c
 reservation.o: reservation.c header.h
 	gcc -c  reservation.c
 sfunc.o: sfunc.c header.h
