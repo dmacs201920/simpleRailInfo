@@ -7,6 +7,7 @@ long   sget()
  //   char a[5];
     	//   printf("entet two numbers");
     FILE *f=fopen("coach_index.txt","r");
+    FILE *f2=fopen("reservation.txt","a");
     FILE *f1=fopen("seat_index.txt","r");
     long  *c_ptr=&c; long  *d_ptr=&d;
     fscanf(f,"%li",&c);
@@ -28,6 +29,7 @@ long   sget()
 		c++;
 	    d++;
 	    printf("s%li-%li \n",c,d);
+	    fprintf(f2,"s%li-%li \n",c,d);
 	   // scanf("%s",a);
 	    break;
 	case 2:  
@@ -41,6 +43,7 @@ long   sget()
 		  d++;
 
 		  printf("B%li-%li \n",c,d);
+	    fprintf(f2,"B%li-%li \n",c,d);
 		  break;
 	case 3:
 		  if(c>5||d>46)
@@ -52,6 +55,7 @@ long   sget()
 		   c++;
 	       d++;
 	       printf("A%li-%li \n",c,d);
+	    fprintf(f2,"A%li-%li \n",c,d);
 	       break;
 	default :
 	       printf("ERROR\n");
@@ -64,9 +68,11 @@ long   sget()
     fprintf(f1,"%li",d);
     fclose(f1);
     fclose(f);
+    fclose(f2);
     return d;
 }
 int seat_no_generation()
+//int main()
 {
 
     printf("%li",sget());

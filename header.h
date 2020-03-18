@@ -13,6 +13,7 @@ typedef struct
     unsigned long long ph_no;
     char address[500];
     unsigned long long  aadhar;
+   // long int seat_no;
 }pd;
 
 struct order

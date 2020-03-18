@@ -9,7 +9,7 @@ void sreservation()
     int n,i=0;
     float charges;
     pd  details;
-    FILE*f=fopen("reservation.txt","ab");
+    FILE*f=fopen("reservation.txt","a");
     system("clear");
     date();
     
@@ -45,7 +45,7 @@ void sreservation()
 	printf("\nAadhar number:");
 	scanf("%llu",&details.aadhar);
 	getchar();
-	seat_no_generation();
+	//	seat_no_generation();
 	fprintf(f,"************************\n ");
 	fprintf(f,"PNR-%llu\n",get_next_index());
 	fprintf(f,"no of seats: %d\n",details.num_of_seats);
@@ -55,7 +55,8 @@ void sreservation()
 	fprintf(f,"phone no: %llu\n",details.ph_no);
 	fprintf(f,"address: %s\n",details.address);
 	fprintf(f,"aadhar_no: %llu\n",details.aadhar);
-	fprintf(f,"seat no:%li\n",sget());
+	sget();
+	//fprintf(f,"seat no:%li %li\n",sget());
 	printticket(details.num_of_seats,details.name,details.age,details.sex);
     }
     fclose(f);
