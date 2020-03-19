@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include"header.h"
+
 long   sget()
 {
     long  c=1,d=1;
@@ -29,7 +29,6 @@ long   sget()
 		c++;
 	    d++;
 	    printf("s%li-%li \n",c,d);
-	    fprintf(f2,"***********************\n");
 	    fprintf(f2,"s%li-%li \n",c,d);
 	   // scanf("%s",a);
 	    break;
@@ -44,7 +43,6 @@ long   sget()
 		  d++;
 
 		  printf("B%li-%li \n",c,d);
-	    fprintf(f2,"***********************\n");
 	    fprintf(f2,"B%li-%li \n",c,d);
 		  break;
 	case 3:
@@ -57,7 +55,6 @@ long   sget()
 		   c++;
 	       d++;
 	       printf("A%li-%li \n",c,d);
-	    fprintf(f2,"***********************\n");
 	    fprintf(f2,"A%li-%li \n",c,d);
 	       break;
 	default :

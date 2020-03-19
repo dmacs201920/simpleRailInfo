@@ -1,110 +1,51 @@
+s2-20 
 ************************
- PNR-4506521554
+ PNR-4506521575
 no of seats: 1
-name: sai
-age: 12
-gender: m
-phone no: 8968765757649
-address: jkgyugfyuf yufyfuy
-aadhar_no: 7656345354637
-seat no:7
-************************
- PNR-4506521555
-no of seats: 1
-name: sainath
-age: 20
-gender: m
-phone no: 9949368588
-address: saitowers,puttaparthy.
-aadhar_no: 429540176019
-seat no:0
-************************
- PNR-4506521556
-no of seats: 1
-name: fd
-age: 78
-gender: h
-phone no: 879798
-address: ughju uhuighui
-aadhar_no: 5674646548
-seat no:0
-************************
- PNR-4506521557
-no of seats: 1
-name: sai
+name: a
 age: 1
-gender: s
-phone no: 6755476476
-address: yutyuyt yufyu
-aadhar_no: 6786574536
+gender: a
+phone no: 1
+address: a
+aadhar_no: 1
+s2-21 
 ************************
- PNR-4506521558
+ PNR-4506521576
 no of seats: 1
-name: fhtfhg
-age: 76
-gender: m
-phone no: 564848776
-address: tyftyftyf yufhyfyf
-aadhar_no: 7654567534563
-B2-2 
-************************
- PNR-4506521559
-no of seats: 1
-name: hjgfhj
-age: 76
-gender: h
-phone no: 7685765658
-address: hjgyugyug hgygf
-aadhar_no: 896788557579
-A2-2 
-************************
- PNR-4506521560
-no of seats: 1
-name: ljkjklj
+name: a
 age: 1
-gender: m
-phone no: 8978967689
-address: hjhgyguyg yuyufu
-aadhar_no: 7866876765764568
-s2-34 
-B2-2 
-A2-2 
-A2-2 
-A2-2 
-A2-2 
-A2-2 
-A2-2 
-B2-2 
-B2-2 
-B2-2 
-A2-6 
+gender: a
+phone no: 1
+address: a
+aadhar_no: 1
+A2-22 
 ************************
- PNR-4506521561
+ PNR-4506521577
 no of seats: 1
-name: sai
-age: 12
-gender: m
-phone no: 7857657645
-address: hjgfty yuftyf uigyu
-aadhar_no: 56468748478676
-B2-7 
-************************
- PNR-4506521562
-no of seats: 1
-name: sai
+name: a
 age: 1
-gender: n
-phone no: 657646657
-address: htfty yfyu yu
-aadhar_no: 765645635374
-A2-8 
+gender: a
+phone no: 1
+address: a
+aadhar_no: 1
+***********************
+B2-23 
 ************************
- PNR-4506521563
+ PNR-4506521578
 no of seats: 1
-name: saii
-age: 20
-gender: m
-phone no: 7657586454654
-address: yugyu ygfyut yg ug7yu
-aadhar_no: 5648647864786
-coach: 8
+name: q
+age: 1
+gender: q
+phone no: 1
+address: q
+aadhar_no: 1
+***********************
+B2-24 
+PNR-4506521579
+no of seats: 1
+name: q
+age: 1
+gender: q
+phone no: 1
+address: q
+aadhar_no: 1

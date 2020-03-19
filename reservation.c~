@@ -6,13 +6,12 @@ void sreservation()
 {
     char ch;
     int days;
-    int t,n,i=0;
-    char choice;
+    int n,i=0;
     float charges;
     pd  details;
     FILE*f=fopen("reservation.txt","a");
     system("clear");
-//    date();
+    date();
     
     {
 	if(days<0&&days>120)
@@ -47,11 +46,7 @@ void sreservation()
 	scanf("%llu",&details.aadhar);
 	getchar();
 	//	seat_no_generation();
-	printticket(details.num_of_seats,details.name,details.age,details.sex);
-	printf("do you wanted to confirm your ticket(y/n)");
-	scanf("%c",&choice);
-		if (choice=='y')
-	{
+	fprintf(f,"************************\n ");
 	fprintf(f,"PNR-%llu\n",get_next_index());
 	fprintf(f,"no of seats: %d\n",details.num_of_seats);
 	fprintf(f,"name: %s\n",details.name);
@@ -60,13 +55,9 @@ void sreservation()
 	fprintf(f,"phone no: %llu\n",details.ph_no);
 	fprintf(f,"address: %s\n",details.address);
 	fprintf(f,"aadhar_no: %llu\n",details.aadhar);
-//	fprintf(f,"seat no:%li %li\n",sget());
+	//fprintf(f,"seat no:%li %li\n",sget());
+	printticket(details.num_of_seats,details.name,details.age,details.sex);
 	sget();
-	}
-	else
-	{
-	    printf("your ticket is not booked\n");
-	}
     }
     fclose(f);
 

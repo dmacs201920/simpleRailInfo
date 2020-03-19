@@ -13,7 +13,6 @@ typedef struct
     unsigned long long ph_no;
     char address[500];
     unsigned long long  aadhar;
-    long seat_no;
 }pd;
 
 struct order
@@ -27,12 +26,12 @@ struct order
 
 unsigned long long get_next_index();
 void print();
+long  sget();
 int seat_no_generation();
 int s_no();
 int pnr();
 void sreservation();
 int date();
-long  sget();
 void splitdate(char*date,int *y,int *m,int *d);
 void revjulian(int j,int y,int *d,int *m);
 int isleap(int year);
