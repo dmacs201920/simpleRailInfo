@@ -1,0 +1,190 @@
+82420 	Anand Vihar Terminal Bhubaneswar Suvidha Special 	Anand Vihar Terminus 	Bhubaneshwar
+22806 	Anand Vihar Terminal Bhubaneswar Weekly Super Fast Express 	Anand Vihar Terminus 	Bhubaneshwar
+12894 	Balangir Bhubaneswar Intercity Super Fast Express 	Balangir 	Bhubaneshwar
+12846 	Bengaluru Cantt Bhubaneswar Super Fast Express 	Bangalore Cantonment 	Bhubaneshwar
+08451 	Bhubaneshwar - Krishnarajapuram Suvidha Special 	Puri 	Sambalpur
+02815 	Bhubaneshwar - New Delhi Super Fast Special 	Bhubaneshwar 	New Delhi
+18106 	Bhubaneshwar - Rourkela Intercity Express 	Bhubaneshwar 	Rourkela
+18418 	Bhubaneshwar - Rourkela Rajya Rani Express 	Gunupur 	Rourkela
+02845 	Bhubaneshwar - Yesvantpur Super Fast Special 	Pune Junction 	Hatia
+08449 	Bhubaneswar - Patna Humsafar Special 	Bhubaneshwar 	Patna Junction
+82419 	Bhubaneswar Anand Vihar Terminal Suvidha Special 	Bhubaneshwar 	Anand Vihar Terminus
+22805 	Bhubaneswar Anand Vihar Terminal Weekly Super Fast Express 	Bhubaneshwar 	Anand Vihar Terminus
+12893 	Bhubaneswar Balangir Intercity Super Fast Express 	Bhubaneshwar 	Balangir
+12892 	Bhubaneswar Bangriposi Intercity Super Fast Express 	Bhubaneshwar 	Bangriposi
+12845 	Bhubaneswar Bengaluru Cantt Super Fast Express 	Bhubaneshwar 	Bangalore Cantonment
+12074 	Bhubaneswar Howrah Jan Shatabdi Express 	Bhubaneshwar 	Howrah Junction
+18437 	Bhubaneswar Junagarh Road Express 	Bhubaneshwar 	Junagarh Road
+22883 	Bhubaneswar Krishnarajapuram Humsafar Express 	Bhubaneshwar 	Krishnarajapuram
+82843 	Bhubaneswar KSR Bengaluru Suvidha Special 	Bhubaneshwar 	Bangalore City Junction
+12830 	Bhubaneswar MGR Chennai Super Fast Express 	Bhubaneshwar 	Chennai Central
+12880 	Bhubaneswar Mumbai LTT Super Fast Express 	Bhubaneshwar 	Lokmanya Tilak Terminus
+18423 	Bhubaneswar Nayagarh Seva Express 	Bhubaneshwar 	Nayagarh Town
+12281 	Bhubaneswar New Delhi Duronto Express 	Bhubaneshwar 	New Delhi
+22811 	Bhubaneswar New Delhi Rajdhani Express 	Bhubaneshwar 	New Delhi
+22823 	Bhubaneswar New Delhi Rajdhani Express 	Bhubaneshwar 	New Delhi
+20817 	Bhubaneswar New Delhi Rajdhani Express 	Bhubaneshwar 	New Delhi
+68419 	Bhubaneswar Palasa Memu 	Bhubaneshwar 	Palasa
+12898 	Bhubaneswar Puducherry Superfast Express 	Bhubaneshwar 	Pondicherry
+22882 	Bhubaneswar Pune Superfast Express 	Bhubaneshwar 	Pune Junction
+18496 	Bhubaneswar Rameswaram Weekly Express 	Bhubaneshwar 	Rameswaram
+22840 	Bhubaneswar Rourkela Intercity Super Fast Express 	Bhubaneshwar 	Rourkela
+08407 	Bhubaneswar Secunderabad AC Special 	Bhubaneshwar 	Secunderabad Junction
+02783 	Bhubaneswar Secunderabad Special Fare Special 	Bhubaneshwar 	Secunderabad Junction
+22879 	Bhubaneswar Tirupati Super Fast Express 	Bhubaneshwar 	Tirupati
+22871 	Bhubaneswar Tirupati Superfast Express 	Bhubaneshwar 	Tirupati
+22819 	Bhubaneswar Visakhapatnam Intercity Super Fast Express 	Bhubaneshwar 	Visakhapatnam Junction
+18448 	Hirakhand Express 	Jagdalpur 	Bhubaneshwar
+18447 	Hirakhand Express 	Bhubaneshwar 	Jagdalpur
+12073 	Howrah Bhubaneswar Jan Shatabdi Express 	Howrah Junction 	Bhubaneshwar
+18412 	Intercity Express 	Visakhapatnam Junction 	Bhubaneshwar
+18411 	Intercity Express 	Bhubaneshwar 	Visakhapatnam Junction
+11020 	Konark Express 	Bhubaneshwar 	Chhatrapati Shivaji Maharaj Terminus
+11019 	Konark Express 	Chhatrapati Shivaji Maharaj Terminus 	Bhubaneshwar
+T52 	Krishnarajapuram - bhubaneshwar Suvidha Special 	Sambalpur 	Puri
+22834 	Krishnarajapuram Bhubaneswar Humsafar Express 	Krishnarajapuram 	Bhubaneshwar
+12829 	MGR Chennai Bhubaneswar Superfast Express 	Chennai Central 	Bhubaneshwar
+12879 	Mumbai LTT Bhubaneswar Super Fast Express 	Lokmanya Tilak Terminus 	Bhubaneshwar
+02816 	New Delhi - Bhubaneshwar Super Fast Special 	New Delhi 	Bhubaneshwar
+12282 	New Delhi Bhubaneswar Duronto Express 	New Delhi 	Bhubaneshwar
+22812 	New Delhi Bhubaneswar Rajdhani Express 	New Delhi 	Bhubaneshwar
+22824 	New Delhi Bhubaneswar Rajdhani Express 	New Delhi 	Bhubaneshwar
+20818 	New Delhi Bhubaneswar Rajdhani Express 	New Delhi 	Bhubaneshwar
+12819 	Odisha Sampark Kranti Express 	Bhubaneshwar 	Anand Vihar Terminus
+12820 	Odisha Sampark Kranti Express 	Anand Vihar Terminus 	Bhubaneshwar
+08450 	Patna - Bhubaneswar Humsafar Special 	Patna Junction 	Bhubaneshwar
+18463 	Prasanti Express 	Bhubaneshwar 	Bangalore City Junction
+18464 	Prasanti Express 	Bangalore City Junction 	Bhubaneshwar
+12897 	Puducherry Bhubaneswar Super Fast Express 	Pondicherry 	Bhubaneshwar
+22881 	Pune Bhubaneswar Superfast Express 	Pune Junction 	Bhubaneshwar
+08401 	Puri - Santragachi Suvidha Special 	Bhubaneshwar 	Koraput
+18495 	Rameswaram Bhubaneswar Weekly Express 	Rameswaram 	Bhubaneshwar
+18105 	Rourkela - Bhubaneshwar Intercity Express 	Rourkela 	Bhubaneshwar
+18417 	Rourkela - Bhubaneshwar Rajya Rani Express 	Rourkela 	Gunupur
+22839 	Rourkela Bhubaneswar Intercity Super Fast Express 	Rourkela 	Bhubaneshwar
+08402 	Santragachi - Puri Suvidha Special 	Koraput 	Bhubaneshwar
+08408 	Secunderabad Bhubaneswar AC Special 	Secunderabad Junction 	Bhubaneshwar
+02784 	Secunderabad Bhubaneswar Bi weekly Specialfare Special 	Secunderabad Junction 	Bhubaneshwar
+22880 	Tirupati Bhubaneswar Super Fast Express 	Tirupati 	Bhubaneshwar
+22872 	Tirupati Bhubaneswar Superfast Express 	Tirupati 	Bhubaneshwar
+17015 	Visakha Express 	Bhubaneshwar 	Secunderabad Junction
+17016 	Visakha Express 	Secunderabad Junction 	Bhubaneshwar
+22820 	Visakhapatnam Bhubaneswar Super Fast Intercity Express 	Visakhapatnam Junction 	Bhubaneshwar
+02846 	Yesvantpur - Bhubaneshwar Super Fast Special 	Hatia 	Pune Junction
+18406 	Ahmedabad Puri Express 	Ahmedabad Junction 	Puri
+12844 	Ahmedabad Puri Super Fast Express 	Ahmedabad Junction 	Puri
+18422 	Ajmer Puri Express 	Ajmer Junction 	Puri
+08428 	Amritsar Puri Prakash Parv Special 	Amritsar Junction 	Puri
+18449 	Baidyanathdham Express 	Puri 	Patna Junction
+18450 	Baidyanathdham Express 	Patna Junction 	Puri
+18415 	Barbil Puri Express 	Barabil 	Puri
+08426 	Bhagalpur Puri Special 	Bhagalpur 	Puri
+08091 	Bhanjpur Puri Special 	Bhanjpur 	Puri
+08451 	Bhubaneshwar - Krishnarajapuram Suvidha Special 	Puri 	Sambalpur
+14709 	Bikaner Puri Express 	Bikaner Junction 	Puri
+12822 	Dhauli Express 	Puri 	Howrah Junction
+12821 	Dhauli Express 	Howrah Junction 	Puri
+18426 	Durg Puri Express 	Durg Junction 	Puri
+19453 	Gandhidham BG Puri Express 	Gandhidham BG 	Puri
+22973 	Gandhidham Puri Weekly Super Fast Express 	Gandhidham BG 	Puri
+12993 	Gandhidham Puri Weekly Super Fast Express 	Gandhidham BG 	Puri
+01661 	Habibganj Puri Special Fare Special 	Bhopal Habibganj 	Puri
+12881 	Howrah Puri Garib Rath Express 	Howrah Junction 	Puri
+12277 	Howrah Puri Shatabdi Express 	Howrah Junction 	Puri
+12837 	Howrah Puri Superfast Express 	Howrah Junction 	Puri
+12895 	Howrah Puri Weekly Super Fast Express 	Howrah Junction 	Puri
+12887 	Howrah Puri Weekly Super Fast Express 	Howrah Junction 	Puri
+19317 	Indore Puri Humsafar Express 	Indore Junction (BG) 	Puri
+18420 	Jaynagar Puri Weekly Express 	Jaynagar 	Puri
+18474 	Jodhpur - Puri Express 	Jodhpur Junction 	Puri
+20814 	Jodhpur Puri Super Fast Express 	Jodhpur Junction 	Puri
+18478 	Kalinga Utkal Express 	Haridwar Junction 	Puri
+18477 	Kalinga Utkal Express 	Puri 	Haridwar Junction
+15640 	Kamakhya Puri Express 	Kamakhya 	Puri
+15644 	Kamakhya Puri Express 	Kamakhya 	Puri
+03101 	Kolkata Puri Special Fare Special 	Sealdah 	Puri
+08452 	Krishnarajapuram - bhubaneshwar Suvidha Special 	Sambalpur 	Puri
+22860 	MGR Chennai Puri Super Fast Express 	Chennai Central 	Puri
+12745 	Mumbai LTT - Puri Super Fast Express 	Puri 	Jodhpur Junction
+22865 	Mumbai LTT Puri Super Fast Express 	Lokmanya Tilak Terminus 	Puri
+12145 	Mumbai LTT Puri Superfast Express 	Lokmanya Tilak Terminus 	Puri
+12815 	Nandan Kanan Express 	Puri 	Anand Vihar Terminus
+12816 	Nandan Kanan Express 	Anand Vihar Terminus 	Puri
+12875 	Neelachal Express 	Puri 	Anand Vihar Terminus
+12876 	Neelachal Express 	Anand Vihar Terminus 	Puri
+18402 	Okha Puri Dwarka Express 	Okha 	Puri
+18473 	Puri - Jodhpur Express 	Puri 	Jodhpur Junction
+12746 	Puri - Mumbai LTT Super Fast Express 	Jodhpur Junction 	Puri
+08410 	Puri - Rourkela Tatkal Special 	Puri 	Rourkela
+08401 	Puri - Santragachi Suvidha Special 	Bhubaneshwar 	Koraput
+12580 	Puri - Super Fast Express 	Puri 	Digha
+18405 	Puri Ahmedabad Express 	Puri 	Ahmedabad Junction
+12843 	Puri Ahmedabad Super Fast Express 	Puri 	Ahmedabad Junction
+18421 	Puri Ajmer Express 	Puri 	Ajmer Junction
+08427 	Puri Amritsar Express Special 	Puri 	Amritsar Junction
+18416 	Puri Barbil Express 	Puri 	Barabil
+08092 	Puri Bhanjpur Special 	Puri 	Bhanjpur
+14710 	Puri Bikaner Express 	Puri 	Bikaner Junction
+68416 	Puri Cuttack Memu 	Puri 	Cuttack
+18425 	Puri Durg Express 	Puri 	Durg Junction
+19454 	Puri Gandhidham BG Express 	Puri 	Gandhidham BG
+22974 	Puri Gandhidham Weekly Super Fast Express 	Puri 	Gandhidham BG
+12994 	Puri Gandhidham Weekly Super Fast Express 	Puri 	Gandhidham BG
+58417 	Puri Gunupur Passenger 	Puri 	Gunupur
+01662 	Puri Habibganj Special Fare Special 	Puri 	Bhopal Habibganj
+12882 	Puri Howrah Garib Rath Express 	Puri 	Howrah Junction
+12278 	Puri Howrah Shatabdi Express 	Puri 	Howrah Junction
+12838 	Puri Howrah Super Fast Express 	Puri 	Howrah Junction
+12888 	Puri Howrah Weekly Super Fast Express 	Puri 	Howrah Junction
+12896 	Puri Howrah Weekly Super Fast Express 	Puri 	Howrah Junction
+19318 	Puri Indore Humsafar Express 	Puri 	Indore Junction (BG)
+18419 	Puri Jaynagar Weekly Express 	Puri 	Jaynagar
+20813 	Puri Jodhpur Super Fast Express 	Puri 	Jodhpur Junction
+15639 	Puri Kamakhya Express 	Puri 	Kamakhya
+15643 	Puri Kamakhya Express 	Puri 	Kamakhya
+03102 	Puri Kolkata Special Fare Special 	Puri 	Sealdah
+22859 	Puri MGR Chennai Super Fast Express 	Puri 	Chennai Central
+22866 	Puri Mumbai LTT Super Fast Express 	Puri 	Lokmanya Tilak Terminus
+12146 	Puri Mumbai LTT Superfast Express 	Puri 	Lokmanya Tilak Terminus
+18401 	Puri Okha Dwarka Express 	Puri 	Okha
+08425 	Puri Raipur Express Special 	Puri 	Bhagalpur
+58132 	Puri Rourkela Passenger 	Puri 	Rourkela
+18407 	Puri Sainagar Shirdi Express 	Puri 	Shirdi (Sainagar Shirdi)
+08429 	Puri Sainagar Shirdi Weekly Special 	Puri 	Shirdi (Sainagar Shirdi)
+18304 	Puri Sambalpur Intercity Express 	Puri 	Sambalpur
+08038 	Puri Santragachi AC Special Fare Special 	Puri 	Kolkata Santragachi Junction
+08403 	Puri Santragachi Special Fare Special 	Puri 	Kolkata Santragachi Junction
+02810 	Puri Santragachi Special Fare Super Fast Special 	Hatia 	Chhatrapati Shivaji Maharaj Terminus
+22202 	Puri Sealdah Duronto Express 	Puri 	Sealdah
+22836 	Puri Shalimar Superfast Express 	Puri 	Kolkata Shalimar
+09208 	Puri Somnath Special 	Puri 	Somnath
+12579 	Puri Super Fast Express 	Digha 	Puri
+22827 	Puri Surat Weekly Superfast Express 	Puri 	Surat
+17479 	Puri Tirupati Express 	Puri 	Tirupati
+22910 	Puri Valsad Superfast Express 	Puri 	Valsad
+22883 	Puri Yesvantpur Weekly Garib Rath Express 	Puri 	Yesvantpur Junction
+12801 	Purushottam Express 	Puri 	New Delhi
+12802 	Purushottam Express 	New Delhi 	Puri
+18408 	Sainagar Shirdi Puri Express 	Shirdi (Sainagar Shirdi) 	Puri
+22889 	Samudra Kanya Express 	Digha 	Puri
+22890 	Samudra Kanya Express 	Puri 	Digha
+02809 	Santragachi - Puri Special Fare Super Fast Special 	Kolkata Santragachi Junction 	Puri
+08402 	Santragachi - Puri Suvidha Special 	Koraput 	Bhubaneshwar
+08404 	Santragachi Puri Special Fare Special 	Kolkata Santragachi Junction 	Puri
+22201 	Sealdah Puri Duronto Express 	Sealdah 	Puri
+08037 	Shalimar Puri AC Special Fare Special 	Kolkata Shalimar 	Puri
+22835 	Shalimar Puri Super Fast Express 	Kolkata Shalimar 	Puri
+09207 	Somnath Puri Special 	Somnath 	Puri
+18409 	Sri Jagannath Express 	Howrah Junction 	Puri
+18410 	Sri Jagannath Express 	Puri 	Howrah Junction
+22828 	Surat Puri Super Fast Express 	Surat 	Puri
+18451 	Tapaswini Express 	Hatia 	Puri
+18452 	Tapaswini Express 	Puri 	Hatia
+17480 	Tirupati Puri Express 	Tirupati 	Puri
+22909 	Valsad Puri Super Fast Express 	Valsad 	Puri
+22884 	Yesvantpur Puri Weekly Garib Rath Express 	Yesvantpur Junction 	Puri
+
+
+
+
+

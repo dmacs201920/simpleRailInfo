@@ -1,0 +1,106 @@
+22415 	Andhra Pradesh AC Super Fast Express 				Visakhapatnam Junction 			New Delhi
+22416 	Andhra Pradesh AC Super Fast Express 				New Delhi 				Visakhapatnam Junction
+18574 	Bhagat Ki Kothi Visakhapatnam Express 				Bhagat Ki Koti 				Visakhapatnam Junction
+22819 	Bhubaneswar Visakhapatnam Intercity Super Fast Express 		Bhubaneshwar 				Visakhapatnam Junction
+12862 	Dakshin Link Super Fast Express 				Kazipet Junction 			Visakhapatnam Junction
+12861 	Dakshin Link Super Fast Express 				Visakhapatnam Junction 			Kazipet Junction
+12722 	Dakshin Super Fast Express 					Hazrat Nizamuddin		 	Hyderabad Deccan
+12721 	Dakshin Super Fast Express				 	Hyderabad Deccan 			Hazrat Nizamuddin
+22873 	Digha Vishakapatnam Superfast Express 				Digha 					Visakhapatnam Junction
+18502 	Gandhidham Visakhapatnam Weekly Express 			Gandhidham BG 				Visakhapatnam Junction
+12804 	Hazrat Nizamuddin Visakhapatnam Swarna Jayanti Express 		Hazrat Nizamuddin 			Visakhapatnam Junction
+20812 	Hazur Sahib Nanded Visakhapatnam Super Fast Express 		Nanded 					Visakhapatnam Junction
+18508 	Hirakud Express 						Amritsar Junction 			Visakhapatnam Junction
+18507 	Hirakud Express						 	Visakhapatnam Junction 			Amritsar Junction
+07071 	Hyderabad - Visakhapatnam Specialfare Special 			Hyderabad Deccan 			Visakhapatnam Junction
+12728 	Hyderabad Visakhapatnam Godavari Super Fast Express 		Hyderabad Deccan 			Visakhapatnam Junction
+18412 	Intercity Express 						Visakhapatnam Junction 			Bhubaneshwar
+18411 	Intercity Express 						Bhubaneshwar 				Visakhapatnam Junction
+12805 	Janmabhoomi Super Fast Express 					Visakhapatnam Junction 			Lingampalli
+12806 	Janmabhoomi Super Fast Express 					Lingampalli 				Visakhapatnam Junction
+08570 	Kollam - Vishakpatnam Sabarimala Special 			Kollam Junction 			Visakhapatnam Junction
+08516 	Kollam Visakhapatnam Sabarimala Special			 	Kollam Junction 			Visakhapatnam Junction
+18568 	Kollam Visakhapatnam Weekly Express 				Kollam Junction 			Visakhapatnam Junction
+08568 	Kollam Vishakatapanam Sabarimala Specialfare Special	 	Kollam Junction 			Visakhapatnam Junction
+18511 	Koraput Vishakhapatnam Intercity Express 			Koraput 				Visakhapatnam Junction
+18517 	Korba Visakhapatnam Express 					Korba 					Visakhapatnam Junction
+02878 	Krishnarajapuram - Visakhapatnam Suvidha Special 		Krishnarajapuram 			Visakhapatnam Junction
+22870 	MGR Chennai Visakhapatnam Weekly Super Fast Express 		Chennai Central 			Visakhapatnam Junction
+18520 	Mumbai LTT Visakhapatnam Express 				Lokmanya Tilak Terminus 		Visakhapatnam Junction
+22848 	Mumbai LTT Visakhapatnam Super Fast Express 			Lokmanya Tilak Terminus 		Visakhapatnam Junction
+18510 	Nanded - Visakhapatnam Express 					Nanded 					Visakhapatnam Junction
+22809 	Paradeep Vishakapatnam Superfast Express		 	Paradip 				Visakhapatnam Junction
+01461 	Pune Junction Visakhapatnam Junction Special 			Pune Junction 				Visakhapatnam Junction
+12717 	Ratnachal Super Fast Express 					Visakhapatnam Junction 			Vijayawada Junction
+12718 	Ratnachal Super Fast Express 					Vijayawada Junction 			Visakhapatnam Junction
+18504 	Sainagar Shirdi Visakhapatnam Express 				Shirdi (Sainagar Shirdi) 		Visakhapatnam Junction
+02728 	Secunderabad - Visakhapatnam AC Super Fast Special 		Hyderabad Deccan 			Visakhapatnam Junction
+22204 	Secunderabad Visakhapatnam AC Duronto Express 			Secunderabad Junction 			Visakhapatnam Junction
+12784 	Secunderabad Visakhapatnam AC Super Fast Express 		Secunderabad Junction 			Visakhapatnam Junction
+12740 	Secunderabad Visakhapatnam Garib Rath Express 			Secunderabad Junction 			Visakhapatnam Junction
+08522 	Secunderabad Visakhapatnam Specialfare Special 			Secunderabad Junction 			Visakhapatnam Junction
+08502 	Secunderabad Visakhapatnam Specialfare Special 			Secunderabad Junction 			Visakhapatnam Junction
+22853 	Shalimar Visakhapatnam Superfast Express 			Kolkata Shalimar 			Visakhapatnam Junction
+22802 	Shirdi (Sainagar Shirdi) - Visakhapatnam Express 		Chennai Central 			Visakhapatnam Junction
+17239 	Simhadri Express					 	Guntur Junction 			Visakhapatnam Junction
+17240 	Simhadri Express					 	Visakhapatnam Junction 			Guntur Junction
+82508 	Subedarganj Visakhapatnam Suvidha Special 			Subedarganj 				Visakhapatnam Junction
+08189 	Tatanagar - Visakhapatnam Special Fare Special 			Tatanagar Junction 			Visakhapatnam Junction
+18515 	Tatanagar Visakhapatnam Express				 	Tatanagar Junction 			Visakhapatnam Junction
+20815 	Tatanagar Visakhapatnam Weekly Super Fast Express 		Tatanagar Junction 			Visakhapatnam Junction
+17487 	Tirumala Express 						Cuddapah 				Visakhapatnam Junction
+17488 	Tirumala Express					 	Visakhapatnam Junction 			Cuddapah
+22708 	Tirupati Visakhapatnam AC Double Decker Express 		Tirupati 				Visakhapatnam Junction
+07487 	Tirupati Visakhapatnam Special Fare AC Special		 	Tirupati 				Visakhapatnam Junction
+08574 	Tirupati Visakhapatnam Special Fare Special 			Tirupati			 	Visakhapatnam Junction
+22702 	Vijayawada Visakhapatnam Uday Express			 	Vijayawada Junction 			Visakhapatnam Junction
+82854 	Villupuram - Visakhapatnam Weekly Suvidha 			Villupuram Junction 			Visakhapatnam Junction
+08354 	Villupuram Visakhapatnam Specialfare Special 			Villupuram Junction 			Visakhapatnam Junction
+22801 	Visakhapatnam - Shirdi (Sainagar Shirdi) Super Fast Express 	Visakhapatnam Junction 			Chennai Central
+08569 	Visakhapatnam - Kollam Sabarimala Special 			Visakhapatnam Junction 			Kollam Junction
+02877 	Visakhapatnam - Krishnarajapuram Suvidha Special 		Visakhapatnam Junction 			Krishnarajapuram
+18509 	Visakhapatnam - Nanded Express 					Visakhapatnam Junction 			Nanded
+02727 	Visakhapatnam - Secunderabad AC Super Fast Special 		Visakhapatnam Junction 			Secunderabad Junction
+07072 	Visakhapatnam - Secunderabad Special Fare Special 		Visakhapatnam Junction 			Secunderabad Junction
+08190 	Visakhapatnam - Tatanagar Special Fare Special 			Visakhapatnam Junction 			Tatanagar Junction
+82853 	Visakhapatnam - Villupuram Suvidha Special 			Visakhapatnam Junction 			Villupuram Junction
+18573 	Visakhapatnam Bhagat Ki Kothi Express 				Visakhapatnam Junction 			Bhagat Ki Kothi
+22820 	Visakhapatnam Bhubaneswar Super Fast Intercity Express 		Visakhapatnam Junction 			Bhubaneshwar
+22874 	Visakhapatnam Digha Superfast Express 				Visakhapatnam Junction 			Digha
+18501 	Visakhapatnam Gandhidham Weekly Express 			Visakhapatnam Junction 			Gandhidham BG
+12803 	Visakhapatnam Hazrat Nizamuddin Swarna Jayanti Express	 	Visakhapatnam Junction 			Hazrat Nizamuddin
+20811 	Visakhapatnam Hazur Sahib Nanded Super Fast Express 		Visakhapatnam Junction 			Nanded
+12727 	Visakhapatnam Hyderabad Godavari Super Fast Express 		Visakhapatnam Junction 			Hyderabad Deccan
+08515 	Visakhapatnam Kollam Sabarimala Special 			Visakhapatnam Junction 			Kollam Junction
+08567 	Visakhapatnam Kollam Sabarimala Specialfare Special 		Visakhapatnam Junction 			Kollam Junction
+18567 	Visakhapatnam Kollam Weekly Express 				Visakhapatnam Junction 			Kollam Junction
+18512 	Visakhapatnam Koraput Intercity Express 			Visakhapatnam Junction 			Koraput
+18518 	Visakhapatnam Korba Express 					Visakhapatnam Junction 			Korba
+2869 	Visakhapatnam MGR Chennai Weekly Super Fast Express 		Visakhapatnam Junction 			Chennai Central
+18519 	Visakhapatnam Mumbai LTT Express			 	Visakhapatnam Junction 			Lokmanya Tilak Terminus
+22847 	Visakhapatnam Mumbai LTT Super Fast Express 			Visakhapatnam Junction 			Lokmanya Tilak Terminus
+22810 	Visakhapatnam Paradeep Superfast Express 			Visakhapatnam Junction		 	Paradip
+18503 	Visakhapatnam Sainagar Shirdi Express 				Visakhapatnam Junction 			Shirdi (Sainagar Shirdi)
+22203 	Visakhapatnam Secunderabad AC Duronto Express 			Visakhapatnam Junction 			Secunderabad Junction
+12783 	Visakhapatnam Secunderabad AC Super Fast Express 		Visakhapatnam Junction 			Secunderabad Junction
+12739 	Visakhapatnam Secunderabad Garib Rath Express 			Visakhapatnam Junction 			Secunderabad Junction
+08501 	Visakhapatnam Secunderabad Special Fare Special 		Visakhapatnam Junction 			Secunderabad Junction
+08521 	Visakhapatnam Secunderabad Specialfare Special 			Visakhapatnam Junction 			Secunderabad Junction
+22854 	Visakhapatnam Shalimar Express 					Visakhapatnam Junction 			Kolkata Shalimar
+82507 	Visakhapatnam Subedarganj Suvidha Special 			Visakhapatnam Junction 			Subedarganj
+18516 	Visakhapatnam Tatanagar Express 				Visakhapatnam Junction 			Tatanagar Junction
+20816 	Visakhapatnam Tatanagar Super Fast Express 			Visakhapatnam Junction 			Tatanagar Junction
+22707 	Visakhapatnam Tirupati AC Double Decker Express 		Visakhapatnam Junction 			Tirupati
+08573 	Visakhapatnam Tirupati Special Fare Special 			Visakhapatnam Junction 			Tirupati
+22701 	Visakhapatnam Vijayawada Uday Express 				Visakhapatnam Junction 			Vijayawada Junction
+18503 	Visakhapatnam Sainagar Shirdi Express 				Visakhapatnam Junction 			Shirdi (Sainagar Shirdi)
+07488 	Vishakapatnam - Tirupati Tatkal Fare Special 			Visakhapatnam Junction 			Tirupati
+06580 	Vishakapatnam - Yesvantpur Tatkal Fare Special 			Visakhapatnam Junction 			Yesvantpur Junction
+08512 	Vishakapatnam Jagdalpur Special Fare Special 			Visakhapatnam Junction 			Kirandul
+12807 	Vizag Steel Samta Express 					Visakhapatnam Junction 			Hazrat Nizamuddin
+12808 	Vizag Steel Samta Express 					Hazrat Nizamuddin	 		Visakhapatnam Junction
+06579 	Yesvantpur - Visakhapatnam Tatkal Fare Special 			Yesvantpur Junction 			Visakhapatnam Junction
+
+
+
+

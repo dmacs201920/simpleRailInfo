@@ -68,18 +68,18 @@ start:  system("clear");
 	FILE *f1;
 	printf("                                                **::AN EASY WAY TO CONNECT YOU TO TRAINS::**\n");
 	printf("                                                *..........................................*\n");
-sleep(.5431);
+	sleep(.5431);
 	printf("\n                                              ");
 	printf("\n                                              ");
 	printf("\n                                              ");
 	printf("\n                                              ");
-sleep(0.92);
+	sleep(0.92);
 	printf("\n                                              1>> FROM--TO");
 
-       printf("\n                                              2>>Reserve For Me");
-//	printf("\n                                              3>> Seats Availability");
-//	printf("\n                                              6>> still in progress.. sorry ..");
-	printf("\n                                              3>> Exit");
+	printf("\n                                              2>>Reserve For Me");
+	printf("\n                                              3>> view trains ");
+	//	printf("\n                                              6>> still in progress.. sorry ..");
+	printf("\n                                              4>> Exit");
 	printf("\n                                              \n-->");
 	scanf("%d",&menu_choice);
 	switch(menu_choice)
@@ -91,14 +91,20 @@ sleep(0.92);
 		from_to();
 		break;
 	    case 3:
+
+		viewdetails(); 
+		printf("\n\nPress any key to go to Main Menu..");
+		getchar();
+		break;
+	    case 4:
 		return;
 	    default:
 		printf("\nInvalid choice\n");
 	}
 
-getchar();
-goto start;
-return;
+	getchar();
+	goto start;
+	return;
 }
 
 

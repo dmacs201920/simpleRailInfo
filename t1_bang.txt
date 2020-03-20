@@ -1,0 +1,102 @@
+22694 	Banglore Rajdhani 	                         	Hazrat Nizamuddin 	                   	 Bangalore City Junction
+16532 	KSR Bengaluru Ajmer Express 	                 	Bangalore City Junction                    	 Ajmer Junctionÿ 
+06525 	KSR Bengaluru Belagavi Tatkal Special 		 	Bangalore City Junction 	           	 Belgaum
+82844 	KSR Bengaluru Bhubaneswar Suvidha Special 	 	Bangalore City Junction 		    	Bhubaneshwar
+22689 	KSR Bengaluru chennai Express To Be INT 	 	Bangalore City Junction 	     	    	Chennai Central
+22665 	KSR Bengaluru Coimbatore Uday Express 		 	Bangalore City Junction 	  	    	Coimbatore Junction
+12677 	KSR Bengaluru Ernakulam Intercity Super Fast Express 	Bangalore City Junction 		    	Ernakulam Junction
+16506 	KSR Bengaluru Gandhidham Express 			Bangalore City Junction 		    	Gandhidham BG
+22691 	KSR Bengaluru Hazrat Nizamuddin Rajdhani Express 	Bangalore City Junction 		    	Hazrat Nizamuddin
+16594 	KSR Bengaluru Hazur Sahib Nanded Express 	        Bangalore City Junction 		    	Nanded
+12079 	KSR Bengaluru Hubballi Janshatabdi Express 		Bangalore City Junction 		    	Hubli
+16508 	KSR Bengaluru Jodhpur Express 				Bangalore City Junction 		    	Jodhpur Junction
+16534 	KSR Bengaluru Jodhpur Express 				Bangalore City Junction 	            	Jodhpur Junction
+16526 	KSR Bengaluru Kanniyakumari Express 	                Bangalore City Junction 	      	    	Kanyakumari
+22626 	KSR Bengaluru MGR Chennai AC Double Decker Express 	Bangalore City Junction 		    	Chennai Central
+12658 	KSR Bengaluru MGR Chennai Mail 				Bangalore City Junction 		    	Chennai Central
+12028 	KSR Bengaluru MGR Chennai Shatabdi Express 		Bangalore City Junction 		    	Chennai Central
+16558 	KSR Bengaluru Mysuru Rajya Rani Express 		Bangalore City Junction 	  	   	Mysore City Junction
+17235 	KSR Bengaluru Nagercoil Express 			Bangalore City Junction			    	Nagercoil Junction
+22501 	KSR Bengaluru New Tinsukia Weekly Super Fast Express 	Bangalore City Junction 	      	    	New Tinsukia Junction
+22617 	KSR Bengaluru Tirupati Intercity Super Fast Express 	Bangalore City Junction 		    	Tirupati
+12504 	Agartala Bengaluru Cantt Humsafar Express 		Agartala 				    	Bangalore Cantonment
+12503 	Bengaluru Cantt Agartala Humsafar Express 		Bangalore Cantonment 			    	Agartala
+12846 	Bengaluru Cantt Bhubaneswar Super Fast Express 		Bangalore Cantonment 				Bhubaneshwar
+12509 	Bengaluru Cantt Guwahati Express 			Bangalore Cantonment 				Guwahati
+18638 	Bengaluru Cantt Hatia Express 				Bangalore Cantonment 				Hatia
+06215 	Mysore City Bangalore City Junction Special 		Mysore City Junction 				Bangalore City Junction
+18464 	Prasanti Express 					Bangalore City Junction 			Bhubaneshwar
+80636 	Bangaluru Cantt Hatia Suvidha Special 			Bangalore Cantonment 				Hatia
+06313 	Bangalore - Trivandrum Kochuveli Fortnightly special 	Bangalore City Junction 			Trivandrum Kochuveli
+12640 	Brindavan Express 					Bangalore City Junction 			Chennai Central
+16216 	Chamundi Express 					Bangalore City Junction 			Mysore City Junction
+15901 	Dibrugarh Express 					Bangalore City Junction 			New Tinsukia Junction
+12608 	Lalbagh Super Fast Express 				Bangalore City Junction 			Chennai Central
+06215 	Mysore City Bangalore City Junction Special 		Mysore City Junction 				Bangalore City Junction
+16537 	Nagercoil Express 					Bangalore City Junction 			Nagercoil Junction
+22693 	Rajdhani Express 					Bangalore City Junction 			Hazrat Nizamuddin
+16589 	Rani Chennamma Express 					Bangalore City Junction 			Kolhapur CSTM
+12295 	Sanghamitra Super Fast Express 				Bangalore City Junction 			Danapur
+17209 	Seshadri Express 					Bangalore City Junction 			Kakinada Town
+12614 	Tippu Super Fast Express 				Bangalore City Junction 			Mysore City Junction
+16321 	Trivandrum Express 					Bangalore City Junction 			Trivandrum Central
+16530 	Udyan Express 						Bangalore City Junction 			Mumbai
+02510 	Kamakhya - Bengaluru Cantonment Suvidha Special 	Kamakhya 					Bangalore Cantonment
+12253 	Anga Express 						Yesvantpur Junction 				Bhagalpur
+02552 	Kamakhya - Yesvantpur Super Fast Special 		Agartala 					Bangalore Cantonment
+12629 	Karnataka Sampark Kranti Express 			Yesvantpur Junction 				Hazrat Nizamuddin
+12630 	Karnataka Sampark Kranti Express 			Hazrat Nizamuddin 				Yesvantpur Junction
+12649 	Karnataka Sampark Kranti Express 			Yesvantpur Junction 				Hazrat Nizamuddin
+12650 	Karnataka Sampark Kranti Express 			Hazrat Nizamuddin 				Yesvantpur Junction
+17212 	Kondaveedu Express 					Yesvantpur Junction 				Machelipatnam
+12543 	Tirupathi Express 					Yesvantpur Junction 				Tirupati
+19405 	Yesvantpur - Ahmedabad AC Express 			Yesvantpur Junction 				Ahmedabad Junction
+19406 	Yesvantpur - Ahmedabad AC Express 			Ahmedabad Junction 				Yesvantpur Junction
+06503 	Yesvantpur - Ahmedabad Suvidha Special 			Yesvantpur Junction 				Ahmedabad Junction
+02846 	Yesvantpur - Bhubaneshwar Super Fast Special 		Hatia 						Pune Junction
+08638 	Yesvantpur - Hatia Special 				Yesvantpur Junction 				Hatia
+02551 	Yesvantpur - Kamakhya Super Fast Special 		Yesvantpur Junction 				Kamakhya
+16561 	Yesvantpur - Kochuveli AC Express 			Yesvantpur Junction 				Trivandrum Kochuveli
+06517 	Yesvantpur - Miraj Special 				Yesvantpur Junction 				Miraj Junction
+82651 	Yesvantpur - Shri Mata Vaishno Devi Katra Suvidha Express 	Yesvantpur Junction 			Shri Mata Vaishno Devi Katra
+06579 	Yesvantpur - Visakhapatnam Tatkal Fare Special 		Yesvantpur Junction 				Visakhapatnam Junction
+16502 	Yesvantpur Ahmedabad Weekly Express 			Yesvantpur Junction 				Ahmedabad Junction
+14805 	Yesvantpur Barmer AC Express 				Yesvantpur Junction 				Barmer
+16571 	Yesvantpur Bidar Express 				Yesvantpur Junction 				Bidar
+16587 	Yesvantpur Bikaner Express 				Yesvantpur Junction 				Bikaner Junction
+22685 	Yesvantpur Chandigarh Karnataka Sampark Kranti Express 	Yesvantpur Junction 				Chandigarh
+12213 	Yesvantpur Delhi Sarai Rohilla AC Duronto Express 	Yesvantpur Junction 				Delhi Sarai Rohilla
+19302 	Yesvantpur DR Ambedkar Nagar Weekly Express 		Yesvantpur Junction 				Dr Ambedkar Nagar
+06547 	Yesvantpur Ernakulam Tatkal Special 			Yesvantpur Junction 				Ernakulam Junction
+15016 	Yesvantpur Gorakhpur Express 				Yesvantpur Junction 				Gorakhpur Junction
+15024 	Yesvantpur Gorakhpur Express 				Yesvantpur Junction 				Gorakhpur Junction
+12592 	Yesvantpur Gorakhpur Super Fast Express 		Yesvantpur Junction 				Gorakhpur Junction
+16577 	Yesvantpur Harihar Intercity Express 			Yesvantpur Junction 				Harihar
+12836 	Yesvantpur Hatia Super Fast Express 			Yesvantpur Junction 				Hatia
+12246 	Yesvantpur Howrah Duronto Express 			Yesvantpur Junction 				Howrah Junction
+22888 	Yesvantpur Howrah Humsafar Express 			Yesvantpur Junction 				Howrah Junction
+12864 	Yesvantpur Howrah Super Fast Express 			Yesvantpur Junction			 	Howrah Junction
+12193 	Yesvantpur Jabalpur Super Fast Express 			Yesvantpur Junction 				Jabalpur
+06511 	Yesvantpur Jaipur Express 				Yesvantpur Junction 				Jaipur
+22695 	Yesvantpur Jaipur Premium 				Yesvantpur Junction 				Jaipur
+82653 	Yesvantpur Jaipur Suvidha Express 			Yesvantpur Junction 				Jaipur
+17604 	Yesvantpur Kacheguda Express 				Yesvantpur Junction 				Kacheguda
+16569 	Yesvantpur Kacheguda Express 				Yesvantpur Junction			 	Kacheguda
+12551 	Yesvantpur Kamakhya Weekly AC Super Fast Express 	Yesvantpur Junction			 	Kamakhya
+22677 	Yesvantpur Kochuveli AC Super Fast Express 		Yesvantpur Junction 				Trivandrum Kochuveli
+12257 	Yesvantpur Kochuveli Garib Rath Express 		Yesvantpur Junction 				Trivandrum Kochuveli
+12539 	Yesvantpur Lucknow Super Fast Express 			Yesvantpur Junction 				Lucknow
+22683 	Yesvantpur Lucknow Super Fast Express 			Yesvantpur Junction 				Lucknow
+12291 	Yesvantpur MGR Chennai Weekly Super Fast Express 	Yesvantpur Junction 				Chennai Central
+15227 	Yesvantpur Muzaffarpur Weekly Express 			Yesvantpur Junction 				Muzaffarpur Junction
+16541 	Yesvantpur Pandharpur Weekly Express 			Yesvantpur Junction 				Pandharpur
+22352 	Yesvantpur Patliputra Weekly Super Fast Express 	Yesvantpur Junction 				Patliputra Junction
+16573 	Yesvantpur Puducherry Weekly Express 			Yesvantpur Junction 				Pondicherry
+22884 	Yesvantpur Puri Weekly Garib Rath Express 		Yesvantpur Junction 				Puri
+82832 	Yesvantpur Sambalpur Suvidha Special 			Yesvantpur Junction 				Sambalpur
+12736 	Yesvantpur Secunderabad Garib Rath Express 		Yesvantpur Junction 				Secunderabad Junction
+82832 	Yesvantpur Sambalpur Suvidha Special 			Yesvantpur Junction 				Sambalpur
+12736 	Yesvantpur Secunderabad Garib Rath Express 		Yesvantpur Junction 				Secunderabad Junction
+18112 	Yesvantpur Tatanagar Express 				Yesvantpur Junction 				Tatanagar Junction
+12890 	Yesvantpur Tatanagar Superfast Express 			Yesvantpur Junction 				Tatanagar Junction
+17309 	Yesvantpur Vasco Da Gama Express 			Yesvantpur Junction 				Vasco da Gama

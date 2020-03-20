@@ -13,6 +13,7 @@ int pnr()
 unsigned  long long get_next_index()
 {
     FILE *f=fopen("seed_pnr.txt","r");
+    //FILE *f2=fopen("reservation.txt","a");
     FILE *f1=fopen("running_index.txt","r");
     unsigned long  long s=0,t=0;
      unsigned long  long *s_ptr = &s; unsigned long long *t_ptr = &t;
@@ -27,6 +28,7 @@ unsigned  long long get_next_index()
     //printf("Seed PNR - %llu\n", s);
     //printf("Index - %llu\n", t);
     fclose(f1);
+ //   fprintf(f2,"PNR-%llu\n",&s);
    f1=fopen("running_index.txt","w"); 
     t=t+1;
      //fwrite(t_ptr,sizeof(unsigned long long),1,f1);
@@ -34,6 +36,7 @@ unsigned  long long get_next_index()
     fprintf(f1,"%llu",t);
     fclose(f); 
     fclose(f1); 
+  //  fclose(f2);
     return s+t;
    // return s+t;
 

@@ -49,3 +49,42 @@ gender: q
 phone no: 1
 address: q
 aadhar_no: 1
+***********************
+B2-25 
+no of seats: 1
+name: d
+age: 1
+gender: d
+phone no: 1
+address: d
+aadhar_no: 1
+PNR-3220494152
+***********************
+A2-26 
+no of seats: 1
+name: a
+age: 1
+gender: a
+phone no: 1
+address: a
+aadhar_no: 1
+***********************
+B2-27 
+PNR-4506521582
+no of seats: 1
+name: d
+age: 1
+gender: d
+phone no: 1
+address: 
+aadhar_no: 1
+***********************
+seatno-B2-28 
+PNR-4506521583
+no of seats: 1
+name: q
+age: 1
+gender: q
+phone no: 1
+address: q
+aadhar_no: 1

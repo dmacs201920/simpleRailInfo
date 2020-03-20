@@ -30,7 +30,7 @@ long   sget()
 	    d++;
 	    printf("s%li-%li \n",c,d);
 	    fprintf(f2,"***********************\n");
-	    fprintf(f2,"s%li-%li \n",c,d);
+	    fprintf(f2,"seatno-s%li-%li \n",c,d);
 	   // scanf("%s",a);
 	    break;
 	case 2:  
@@ -45,7 +45,7 @@ long   sget()
 
 		  printf("B%li-%li \n",c,d);
 	    fprintf(f2,"***********************\n");
-	    fprintf(f2,"B%li-%li \n",c,d);
+	    fprintf(f2,"seatno-B%li-%li \n",c,d);
 		  break;
 	case 3:
 		  if(c>5||d>46)
@@ -58,7 +58,7 @@ long   sget()
 	       d++;
 	       printf("A%li-%li \n",c,d);
 	    fprintf(f2,"***********************\n");
-	    fprintf(f2,"A%li-%li \n",c,d);
+	    fprintf(f2,"seatno-A%li-%li \n",c,d);
 	       break;
 	default :
 	       printf("ERROR\n");
